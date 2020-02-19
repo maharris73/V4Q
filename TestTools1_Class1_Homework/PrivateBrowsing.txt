@@ -1,0 +1,11 @@
+1. Firefox provides the user with a purple window to indicate the user is now a utilizing private Window. 
+This screen details that the user's browsing and search history is cleared when theey wuit the app or 
+close the browser. Within Firefox, private browsing cookies and history are not saved data. The only 
+thing that shows in cookies is addons.mozilla.org.
+
+2. Someone would want to use this mode for shopping online, or utilizing a public computer to prevent saved passwords, 
+and search history. This also protects you from people trying to use social engineering to gain your information.
+
+3. When testing sites, admin user credentials are sometimes used.This can make it difficult for testing normal users 
+capabilities. Private mode does not save cookies so there will be no possibility of residual admin history allowing 
+the tester to see what the user sees to identify any technical issues that may need to be resolved.  
